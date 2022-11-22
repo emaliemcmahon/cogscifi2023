@@ -13,12 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
-tagline: A Jekyll template for course websites
-description: A modern, highly customizable, responsive Jekyll template for course websites
-author: Kevin Lin
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+title: Cognitive Science Fiction
+description: The course website for Cognitive Science Fiction
+author: Emalie McMahon
+baseurl: # the subpath of your site, e.g. /blog
+url: https://emaliemcmahon.github.io/cogscifi2023 # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -28,41 +27,28 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
+  Emalie McMahon:
+    - 'https://emaliemcmahon.github.io'
   Just the Class on GitHub:
     - 'https://github.com/kevinlin1/just-the-class'
 footer_content:
 
 # Collections for website data
 collections:
-  staffers:
-  modules:
   schedules:
-  announcements:
+  notes:
 # Default layouts for each collection type
 defaults:
   - scope:
       path: ''
-      type: staffers
-    values:
-      layout: staffer
-      subpath: '/assets/images/'
-  - scope:
-      path: ''
-      type: modules
+      type: schedules
     values:
       layout: module
   - scope:
       path: ''
-      type: schedules
+      type: notes
     values:
-      layout: schedule
-  - scope:
-      path: ''
-      type: announcements
-    values:
-      layout: announcement
+      layout: module
 
 compress_html:
   clippings: all
