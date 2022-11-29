@@ -44,11 +44,6 @@ defaults:
       type: schedules
     values:
       layout: module
-  - scope:
-      path: ''
-      type: notes
-    values:
-      layout: module
 
 compress_html:
   clippings: all
