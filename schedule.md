@@ -23,9 +23,3 @@ description: The daily topic and reading schedule
 | Wed, Jan 18 | Consciousness & Intelligence | [All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red) by Martha Wells (2017) <br /> [Artificial Condition](https://www.goodreads.com/book/show/36223860-artificial-condition)  by Martha Wells (2018) <br /> "[I trained an AI chatbot on my childhood journal entries](https://mem.ai/p/U9DnlAjdkp6hifl6A80R)" by Michelle Huang (2022) | TBA | TBA | 
 | Thurs, Jan 19 | Consciousness | "[The puzzle of conscious experience](http://www.ccs.fau.edu/~bressler/EDU/CogNeuro/Readings/Chalmers1995.pdf)" by David Chalmers (1995) <br /> "[Are large languague models sentient](https://www.youtube.com/watch?v=-BcuCmf00_Y)" by David Chalmers (2022) | TBA | TBA |
 | Fri, Jan 20 | Intelligence | [Commonsense psychology in human infants and machines](https://cims.nyu.edu/~brenden/papers/StojnicEtAlPreprint.pdf)" by Gala Stojnic et al (2022)  | TBA | TBA | 
-
-{% for schedule in site.schedules %}
-{{ schedule }}
-{% endfor %}
-
-
