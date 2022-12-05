@@ -48,13 +48,13 @@ passing for this course is not assigned based on the average of individual score
 
 ### Missed Class/Quizz Policy
 
-There will not be makeup quizzes and you do not need to inform me if you are goign to miss class for any reason. You can miss up to 3 classes (attend 10 total) and 3 quizzes (take and score at least 75% on 10 quizzes) while still earning a passing grade for the course. If you anticipate more protracted/frequent absences or missing work, please contact me and we can discuss alternate arrangements that I will evaluate on a case-by-case basis.  
+There will not be makeup quizzes and you do not need to inform me if you are goign to miss class for any reason. You can miss up to 3 classes (attend 10 total) and 3 quizzes (take and score at least 75% on 10 quizzes) and still earn a passing grade for the course. If you anticipate more protracted/frequent absences or missing work, please contact me, and we can discuss alternate arrangements that I will evaluate on a case-by-case basis.  
 
 ## Readings
 
-The course website will link to many of the readings, but for copyright reasons will not directly post most of the course readings. All of the assignments have been registered with the library, and with the exception of the novellas, are availble through [eReserves](https://ares.library.jhu.edu/shib/) and also in the "eReserves" tab on the course Canvas site. The movies and TV episode are also available through eReserves. 
+The course website will link to many of the readings, but for copyright reasons will not directly post most of the course readings. All of the assignments have been registered with the library, and with the exception of the novellas, are availble through [eReserves](https://ares.library.jhu.edu/shib/) and also in the "eReserves" tab on the [course Canvas](https://jhu.instructure.com/courses/38642) site. The movies and TV episode are also available through eReserves. 
 
-There is are two novellas assigned for the course that can be purchased through Barnes and Noble Johns Hopkins. I would encourage you to either buy the book from one of Baltimore's terrific local bookstores like [Atomic Books](https://atomicbooks.com), [Greedy Reads](https://greedyreads.com), or [Ivy Bookshop](https://www.theivybookshop.com) or borrow it from the library. Enoch Pratt Free Public Library, Baltimore's public library, has some physical, ebook, and audiobook copies. 
+There is are two novellas assigned for the course that can be purchased through Barnes and Noble Johns Hopkins. I would encourage you to either buy the book from one of Baltimore's terrific local bookstores like [Atomic Books](https://atomicbooks.com), [Greedy Reads](https://greedyreads.com), or [Ivy Bookshop](https://www.theivybookshop.com) or borrow it from the library. [Enoch Pratt Free Library](https://www.prattlibrary.org), Baltimore's public library, has some physical, ebook, and audiobook copies. 
 
 ## Diversity in readings
 
