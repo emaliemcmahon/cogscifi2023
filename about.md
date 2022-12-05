@@ -32,33 +32,31 @@ The first half of the class meeting will be a discussion focused on the CogSci t
 ###  Academic article days
 These classes will be entirely discussion based. Students will be responsible for summarizing the main points of the assigned readings in discussion. We will also compare what is currently known about the particular topic and relate it to the science fiction reading from the previous day. 
 
-## Grading 
-
-Quizzes - 50%
-
-Participation/Attendance - 50% 
-
-###  Quizzes
-This course will require completing the assigned readings before class. To check that you have prepared for the class, there will be very short comprehension quizzes. If you have engaged with the material, the quizzes should be very straightforward and easy.  
+## Grading & Assignments
 
 ###  Participation/Attendance
-You will be expected to have come to class having read the academic articles or having read/view/listened to the science fiction. Prior to class, you should consider the themes of the science fiction or academic articles and how they relate to other things that we have discussed in the course. 
+You will be expected to come to class prepared and to participate in discussions. 
+
+###  Quizzes
+This course will require completing the assigned readings and a quiz before each class. These quizzes are not only meant to check that you have completed the reading although that is part of the goal. They also serve to guide you in thinking about what aspects of the reading are relevant to the course. And, if I have done a good enough job in writing them, they should get you thinking about questions/comments that you would like to discuss in class. 
+
+Quizzes should be completed entirely on your own without consulting classmates. This is because you should use the quizzes as an opportunity for *your* engagement with the material. Any confusion/clarification should be brought to the whole class so that we can all discuss and learn together. 
+
+Quizzes will be submitted and graded automatically on Gradescope (linked from the course Canvas site). 
 
 ###  How to succeed
-Earning a “Satisfactory” in this course will require that you have an average of 70% across all the quizzes and attend and participate in at least 70% of class meetings. 
+passing for this course is not assigned based on the average of individual scores. Earning a “Satisfactory” in this course will require that you ** 1) earn a passing score (75% or greater) on 75% of the quizzes (10 out of 13 quizzes)** and **2) attend *and* participate in 75% of class meetings (10 out of 13 meetings).**
 
-## Missed Class/Quizz Policy
+### Missed Class/Quizz Policy
 
-If you are sick or unable to attend class/complete quizzes for any reason, you can miss up to 4 classes (attend 10 total) and 3 quizzes (take and pass 9 total) without contacting me. If you anticipate more protracted/frequent absences or missing work, please contact me and we can discuss alternate arrangements which will be evaluated on a case-by-case basis.  
+There will not be makeup quizzes and you do not need to inform me if you are goign to miss class for any reason. You can miss up to 3 classes (attend 10 total) and 3 quizzes (take and score at least 75% on 10 quizzes) while still earning a passing grade for the course. If you anticipate more protracted/frequent absences or missing work, please contact me and we can discuss alternate arrangements that I will evaluate on a case-by-case basis.  
 
 ## Readings
 
-All academic articles and short stories will be linked or posted directly on the course website. 
+The course website will link to many of the readings, but for copyright reasons will not directly post most of the course readings. All of the assignments have been registered with the library, and with the exception of the novellas, are availble through [eReserves](https://ares.library.jhu.edu/shib/) and also in the "eReserves" tab on the course Canvas site. The movies and TV episode are also available through eReserves. 
 
-There is are two novellas assigned for the course that can be purchased or checked out from a library. I recommend starting from the Enoch Pratt Free Public Library that has some physical, ebook, and audiobook copies. 
-
-You will need to stream the movies/TV shows yourself. If there is an interest, I can also host a streaming session in the evening in Krieger. 
+There is are two novellas assigned for the course that can be purchased through Barnes and Noble Johns Hopkins. I would encourage you to either buy the book from one of Baltimore's terrific local bookstores like [Atomic Books](https://atomicbooks.com), [Greedy Reads](https://greedyreads.com), or [Ivy Bookshop](https://www.theivybookshop.com) or borrow it from the library. Enoch Pratt Free Public Library, Baltimore's public library, has some physical, ebook, and audiobook copies. 
 
 ## Diversity in readings
 
-An unfortunate reality of both CogSci and sci-fi is that both fields have little diversity. In the selection of readings for this course, I have tried to highlight work people of color, LGBTQ+ individuals, and women. We will be particularly focusing on contemporary work in CogSci and sci-fi.
+An unfortunate reality of both CogSci and sci-fi is that both fields have little diversity. In the selection of readings for this course, I have tried to highlight work people of color, LGBTQ+ individuals, and women.
