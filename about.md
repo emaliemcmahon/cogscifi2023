@@ -7,8 +7,7 @@ description: >-
 
 ## Course description  
 
-What does it mean to be intelligent? Does our experience with language change how we think about the world? How do we develop the ability to interact socially with others? These are some of the questions that this course will explore by engaging both with relevant science fiction and academic research on select topics in Cognitive Science. The course is designed to provide students with a broad introduction to many areas of active research in Cognitive Science. Through this, students will be exposed to many different domains and methods within Cognitive Science including philosophy, computational modeling, comparative cognition, developmental psychology, neuroimaging, neuropsychology, and human behavior. Additionally, students experience science fiction across several different mediums: short stories, podcasts, movies, television, and a novel. 
-
+What does it mean to be intelligent? Does our experience with language change how we think about the world? How do we develop the ability to interact socially with others? These are some of the questions that this course will explore by engaging both with relevant science fiction and academic research on select topics in Cognitive Science. The course is designed to provide students with a broad introduction to many areas of active research in Cognitive Science. Through this, students will be exposed to many different domains and methods within Cognitive Science including philosophy, computational modeling, comparative cognition, developmental psychology, neuroimaging, neuropsychology, and human behavior. Additionally, students experience science fiction across several different mediums: short stories, podcasts, movies, television, and a novel.
 
 ## Course goals
 
