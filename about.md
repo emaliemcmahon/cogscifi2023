@@ -44,7 +44,7 @@ Quizzes should be completed entirely on your own without consulting classmates. 
 Quizzes will be submitted and graded automatically on Gradescope (linked from the course Canvas site). 
 
 ###  How to succeed
-passing for this course is not assigned based on the average of individual scores. Earning a “Satisfactory” in this course will require that you ** 1) earn a passing score (75% or greater) on 75% of the quizzes (10 out of 13 quizzes)** and **2) attend *and* participate in 75% of class meetings (10 out of 13 meetings).**
+passing for this course is not assigned based on the average of individual scores. Earning a “Satisfactory” in this course will require that you **1) earn a passing score (75% or greater) on 75% of the quizzes (10 out of 13 quizzes)** and **2) attend *and* participate in 75% of class meetings (10 out of 13 meetings).**
 
 ### Missed Class/Quizz Policy
 
