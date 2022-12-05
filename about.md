@@ -58,4 +58,4 @@ There is are two novellas assigned for the course that can be purchased through 
 
 ## Diversity in readings
 
-An unfortunate reality of both CogSci and sci-fi is that both fields have little diversity. In the selection of readings for this course, I have tried to highlight work people of color, LGBTQ+ individuals, and women.
+An unfortunate reality of both CogSci and sci-fi is that both fields have historically had little diversity. In the selection of readings for this course, I have tried to highlight work people of color, LGBTQ+ individuals, and women.
