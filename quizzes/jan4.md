@@ -2,7 +2,7 @@
 layout: page
 title: Jan 4
 parent: Quizzes
-description: The daily topic and reading schedule
+description: Quiz for the readings of Song et al (2008) & Smith (2011) on free will research in neuroscience and philosophy
 ---
 
 # Free will: Song et al (2008) & Smith (2011)
