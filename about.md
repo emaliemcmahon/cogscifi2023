@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Syllabus
+nav_order: 1
 description: >-
     Course policies and information.
 ---
