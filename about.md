@@ -49,7 +49,7 @@ passing for this course is not assigned based on the average of individual score
 
 ### Missed Class/Quizz Policy
 
-There will not be makeup quizzes and you do not need to inform me if you are goign to miss class for any reason. You can miss up to 3 classes (attend 10 total) and 3 quizzes (take and score at least 75% on 10 quizzes) and still earn a passing grade for the course. If you anticipate more protracted/frequent absences or missing work, please contact me, and we can discuss alternate arrangements that I will evaluate on a case-by-case basis.  
+There will not be makeup quizzes and you do not need to inform me if you are going to miss class for any reason. You can miss up to 3 classes (attend 10 total) and 3 quizzes (take and score at least 75% on 10 quizzes) and still earn a passing grade for the course. If you anticipate more protracted/frequent absences or missing work, please contact me, and we can discuss alternate arrangements that I will evaluate on a case-by-case basis.  
 
 ## Readings
 
