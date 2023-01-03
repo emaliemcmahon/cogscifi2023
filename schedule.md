@@ -7,8 +7,6 @@ description: The daily topic and reading schedule
 
 # Daily Schedule
 
-*Schedule subject to change until nearer to Intersession 2023*
-
 | Date | Topic | Reading | Lecture notes | Quizzes |
 | :----: | :----: | :----: | :----: |  :----: |  :----: |
 | Tues, Jan 3 | Course introduction  & Free will | "[What's expected of us](https://www.nature.com/articles/436150a)" by Ted Chiang (2005) | [Decoding in fMRI](../notes/jan3) | [Pre-course survey](../quizzes/jan3) |
