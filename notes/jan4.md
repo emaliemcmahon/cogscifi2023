@@ -46,7 +46,7 @@ The used a classification algorithm to decode whether participants had responded
 
 |  ![Soon2008_sfig4](../../assets/images/Soon2008_sfig4.png) |
 |:--:|
-| Univariate fMRI contrasts to faces, houses, and camels. Figure from [Soon et al (2008)](https://www.nature.com/articles/nn.2112) |
+| Searchlight classification method from [Soon et al (2008)](https://www.nature.com/articles/nn.2112) |
 
 ### Results
 
