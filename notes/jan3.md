@@ -43,4 +43,4 @@ In this case, unimodal analyses described above would find no difference between
 
 The details of how the analyses are performed is beyond the scope of this class, but multivariate analyses are a popular method to investigate whether something is represented in the brain. 
 
-In [Song et al (2008)](https://www.nature.com/articles/nn.2112), they use multivariate decoding to discriminate left from right key presses to determine how early different regions represent the decision relative to when participants report being consciously aware. 
+In [Soon et al (2008)](https://www.nature.com/articles/nn.2112), they use multivariate decoding to discriminate left from right key presses to determine how early different regions represent the decision relative to when participants report being consciously aware. 
