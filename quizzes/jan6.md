@@ -7,7 +7,7 @@ description: Squire (2009)
 
 # Memory: Squire (2009)
 
-1. What resulted in patient H.M.'s lesions?
+1. What resulted in patient H.M.’s lesion that caused his severe memory impairment?
 - [ ] A bicycle accident
 - [ ] Neurosurgery for psychosis
 - [ ] Neurosurgery for epilepsy
