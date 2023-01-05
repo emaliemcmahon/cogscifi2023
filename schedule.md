@@ -17,10 +17,8 @@ description: The daily topic and reading schedule
 | Tues, Jan 10 | Language & thought | "[New perspecitves on language and thought](https://cpb-us-w2.wpmucdn.com/web.sas.upenn.edu/dist/4/81/files/2017/07/Gleitman__Papafragou_in-press-21o7hjk.pdf)" by Lila Gleitman & Anna Papfragou (2017) | TBA | TBA |
 | Wed, Jan 11 | Social Cognition | "[The lifecycle of software objects](https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/8/644/files/2017/08/Chiang-Lifecycle-of-Software-Objects-q3tsuw.pdf)" by Ted Chiang (2010) | TBA | TBA |
 | Thurs, Jan 12 | Social Cognition | "[Asymmetric fMRI adaptation reveals no evidence for mirror neurons in humans](https://www.pnas.org/doi/abs/10.1073/pnas.0902262106)" by Angelika Lingnau et al (2009) | TBA | TBA |
-| Fri, Jan 13 | TBA | TBA | TBA | TBA |
-| Tues, Jan 17 | TBA | TBA | TBA | TBA | 
+| Fri, Jan 13 | Visual Plasticity | [Ghost in the Shell](https://www.youtube.com/watch?v=iHil4Y4r3Wk) (1996) | TBA | TBA |
+| Tues, Jan 17 | Visual Plasticity | "[Partial recovery of visual function in a blind patient after optogenetic therapy](https://www.nature.com/articles/s41591-021-01351-4)" by José-Alain Sahel et al (2021) | TBA | TBA | 
 | Wed, Jan 18 | Consciousness & Intelligence | [All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red) by Martha Wells (2017) <br /> [Artificial Condition](https://www.goodreads.com/book/show/36223860-artificial-condition)  by Martha Wells (2018) <br /> "[I trained an AI chatbot on my childhood journal entries](https://mem.ai/p/U9DnlAjdkp6hifl6A80R)" by Michelle Huang (2022) | TBA | TBA | 
 | Thurs, Jan 19 | Consciousness | "[The puzzle of conscious experience](http://www.ccs.fau.edu/~bressler/EDU/CogNeuro/Readings/Chalmers1995.pdf)" by David Chalmers (1995) <br /> "[Are large languague models sentient](https://www.youtube.com/watch?v=-BcuCmf00_Y)" by David Chalmers (2022) | TBA | TBA |
 | Fri, Jan 20 | Intelligence | [Commonsense psychology in human infants and machines](https://cims.nyu.edu/~brenden/papers/StojnicEtAlPreprint.pdf)" by Gala Stojnic et al (2022)  | TBA | TBA | 
-
-<!---"[Partial recovery of visual function in a blind patient after optogenetic therapy](https://www.nature.com/articles/s41591-021-01351-4)" by José-Alain Sahel et al (2021)--->
