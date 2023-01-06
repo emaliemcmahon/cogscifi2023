@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jan 3
+title: Jan 03
 parent: Notes
 description: Notes for the first day of class
 ---

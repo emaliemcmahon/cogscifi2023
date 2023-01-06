@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jan 4
+title: Jan 04
 parent: Quizzes
 description: Quiz for the readings of Soon et al (2008) & Smith (2011) on free will research in neuroscience and philosophy
 ---

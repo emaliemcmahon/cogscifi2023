@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jan 6
+title: Jan 06
 parent: Quizzes
 description: Squire (2009)
 ---

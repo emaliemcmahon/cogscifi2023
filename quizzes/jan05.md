@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jan 5
+title: Jan 05
 parent: Quizzes
 description: Eternal Sunshine of the Spotless Mind
 ---

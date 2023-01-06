@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jan 5
+title: Jan 05
 parent: Notes
 description: Notes for Eternal Sunshine of the Spotless Mind lecture
 ---

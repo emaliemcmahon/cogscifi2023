@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jan 3
+title: Jan 03
 parent: Quizzes
 description: Pre-course survey about experience in CogSci and sci-fi
 ---
