@@ -2,8 +2,9 @@
 layout: page
 title: Jan 11
 parent: Quizzes
-description: "The Lifecycle of Software Objects" by Ted Chiang
+description: The Lifecycle of Software Objects
 ---
+
 
 # "The Lifecycle of Software Objects" by Ted Chiang 
 
