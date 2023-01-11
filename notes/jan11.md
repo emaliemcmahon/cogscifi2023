@@ -11,7 +11,7 @@ description: Notes on Social Cognition
 
 | ![Tarhan2019](../../assets/images/Tarhan2019.png) |
 |:--:|
-| There is a network of brain regions involved in organizing action representations in the brain. From [Krupenye & Hare (2018)](https://www.nature.com/articles/s41467-020-16846-w) |
+| There is a network of brain regions involved in organizing action representations in the brain. From [Tarhan & Konkle (2019)](https://www.sciencedirect.com/science/article/pii/S0960982217315865) |
 
 
 ## Social interaction perception
@@ -24,11 +24,11 @@ description: Notes on Social Cognition
 
 | ![Krupenyefig3](../../assets/images/Krupenye2018_fig3.jpg) |
 |:--:|
-| Bonobos watched as "E1 played with and ultimately dropped a stuffed animal out of reach. The helper retrieved the toy and attempted to return it to E1, until the hinderer intervened and aggressively stole the toy." Bonobos could then either approach the helper or the hindered. Both were holding the same food reward. From [Tarhan & Konkle (2019)](https://www.sciencedirect.com/science/article/pii/S0960982217315865) |
+| Bonobos watched as "E1 played with and ultimately dropped a stuffed animal out of reach. The helper retrieved the toy and attempted to return it to E1, until the hinderer intervened and aggressively stole the toy." Bonobos could then either approach the helper or the hindered. Both were holding the same food reward. From [Krupenye & Hare (2018)](https://www.nature.com/articles/s41467-020-16846-w |
 
 | ![Krupenyefig2](../../assets/images/Krupenye2018_fig2.jpg) |
 |:--:|
-| In many different experiments to ensure validity of their findings, Krupenye & Hare consistently found that Bonobos prefered the *hinderer* over the helper*. From [Krupenye & Hare (2018)](https://www.sciencedirect.com/science/article/pii/S0960982217315865) |
+| In many different experiments to ensure validity of their findings, Krupenye & Hare consistently found that Bonobos prefered the *hinderer* over the helper. From [Krupenye & Hare (2018)](https://www.nature.com/articles/s41467-020-16846-w) |
 
 ### Representation in the brain 
 
