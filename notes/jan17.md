@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jan 11
+title: Jan 17
 parent: Notes
 description: Notes on Social Cognition
 ---
