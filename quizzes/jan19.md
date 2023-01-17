@@ -31,6 +31,6 @@ description: Are large language models sentient?
     
 4. Explain why Chalmers thinks that "unified agency" is a "strongish" critique of LLMs.
 
-5. Explain Chalmer's conclusion about the current status of AI sentience.  
+5. Explain Chalmers' conclusion about the current status of AI sentience.  
 
 6. Do you have any questions that you want to discuss in class? 
